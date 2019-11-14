@@ -9,5 +9,7 @@
 ![Alt text](https://github.com/arfinadevi28/PBOPPolymorphisme/blob/master/latrun3.PNG)
 
 # Latihan 4
-![Alt text](
+![Alt text](https://github.com/arfinadevi28/PBOPPolymorphisme/blob/master/latrun4.PNG)
+
+# Praktikum
 ![Alt text](
